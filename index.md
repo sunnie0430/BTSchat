@@ -1,16 +1,9 @@
 ## 교육용 실습 챗봇
 
 동국대학교 교육대학원 교육용 챗봇 실습입니다.
-You can use the [editor on GitHub](https://github.com/sunnie0430/BTSchat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # 목록1
 ## Header 2
