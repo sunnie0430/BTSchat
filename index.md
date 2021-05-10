@@ -1,8 +1,9 @@
 ## 교육용 실습 챗봇
 
-동국대학교 교육대학원 교육용 챗봇 실습입니다.
 
+교육용 챗봇 실습입니다.
 
+![timage](https://user-images.githubusercontent.com/81287741/117636463-cc542780-b1bb-11eb-99c4-525c09f418a0.png)
 
 
 # 목록1
